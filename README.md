@@ -76,8 +76,7 @@ public-library-explainer-bot/
 ├── app.py                  # Main Streamlit application
 ├── library_docs.py         # Library knowledge base
 ├── requirements.txt        # Project dependencies
-├── README.md               # Project documentation
-└── .gitignore              # Ignored files
+└── README.md               # Project documentation
 ```
 
 ---
