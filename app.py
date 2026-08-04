@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer
 from library_docs import library_documents
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyANxSIh4yAWuZi9-Xp85GE-D6_0WaXae-U")
+genai.configure(api_key=""GEMINI_API_KEY"")
 
 SYSTEM_PROMPT = """
 You are a Public Library Services Explainer Bot.
